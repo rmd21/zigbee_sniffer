@@ -1,0 +1,18 @@
+> channel
+channel
+20
+> receive
+receive
+received: 0308DEFFFFFFFF071000 power: -78 lqi: 64 time: 1347482720
+received: 0308DFFFFFFFFF073900 power: -35 lqi: 228 time: 1347624388
+received: 030863FFFFFFFF073000 power: -44 lqi: 192 time: 1349810422
+received: 030864FFFFFFFF073400 power: -40 lqi: 208 time: 1354898468
+received: 0308EFFFFFFFFF073800 power: -36 lqi: 224 time: 1359390479
+received: 030865FFFFFFFF073100 power: -43 lqi: 196 time: 1359984762
+received: 0308FFFFFFFFFF073900 power: -35 lqi: 228 time: 1367537190
+received: 030866FFFFFFFF072B00 power: -48 lqi: 172 time: 1376025972
+received: 03080FFFFFFFFF073200 power: -42 lqi: 200 time: 1379432250
+received: 030867FFFFFFFF072C00 power: -47 lqi: 176 time: 1381109632
+received: 03081FFFFFFFFF073000 power: -44 lqi: 192 time: 1382284542
+received: 030868FFFFFFFF073600 power: -38 lqi: 216 time: 1386188256
+
